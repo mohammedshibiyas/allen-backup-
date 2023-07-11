@@ -3,7 +3,7 @@
     height: 60px;
     display: flex;
     flex-wrap: wrap;
-    background-position:
+
 }
 
 .left{
@@ -149,29 +149,41 @@ span:hover{
 }
 .menu{
     background-color: rgb(255, 255, 255);
-    height: 80px;
+    height: 75px;
+   
     display: flex;
+    
     letter-spacing: 1px;
     position: sticky;
     top: 0;
+    
     
 }
 .things ul{
     display: flex;
     text-decoration: none;
-    gap: 20px;
+    gap: 15px;
     font-family: sans-serif;
     margin: 10px;
     color: black;
-    margin-left: 10px;
+    margin-left: 5px;
     padding: 10px;
     cursor: pointer;
     padding-top:10px;
     font-size: small;
     margin-top: 25px;
+   
     
-
+    
 }
+
+.search{
+    margin-left: 8px;
+    margin-bottom: 3px;
+    border: none;
+    
+}
+
 .menu img{
     width:20%;
     margin-left:10px;
@@ -181,7 +193,7 @@ span:hover{
     width: 98%;
 }
 .main{
-    background-image: url(../images/AS_D_HB_59_Women.png);
+    background-image: url(../images/AS_D_HB_62_Sale.jfif);
     background-size: cover;
     height: 480px;
     
@@ -227,15 +239,17 @@ span:hover{
     margin-left:135px ;
 }
 .footer{
-    margin-top: 50px;
+    margin-top: 90px;
     background-color: rgb(252, 211, 105);
-    height: 250px;
+    height: 230px;
+    display: flex;
 }
 .para1{
     font-size: x-large;
     margin-left: 30px;
     padding: 40px;
-    color: navy;
+    margin-bottom: 0px;
+    color: #0e3051;
     font-weight: 800px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     
@@ -279,11 +293,28 @@ margin-top: 10px;
     font-style: normal;   
 }
 .qr img{
-    margin-left: 500px;
+    margin-left: 100px;
     width:150px;
     height: 150x;
-    margin-top: ;
+    margin-bottom:400px !important;
+    margin-top: 40px;
     
-
 }
+
+.yallen{
+    margin-left: 180px;
+    padding-bottom: 500px;
+}
+.fright{
+    display: flex;
+}
+
+.newarrival h2{
+    text-align: center;
+    margin-top: 50px;
+    font-family:sans-serif;
+    
+}
+
+
 
